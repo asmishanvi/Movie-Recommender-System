@@ -1,2 +1,2 @@
 # Movie-Recommender-System
-A content based movie recommender system using cosine similarity
+A Machine Learning model made by using libraries such as Pandas, Numpy, Scikit-Learn, and Matplotlib, which recommends movies based on similar movies and shows.
